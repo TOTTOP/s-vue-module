@@ -6,6 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <HelloWorld />
 </template>
 
+<link href="/dist/styles.css" rel="stylesheet"></link>
 <style scoped>
 .logo {
   height: 6em;
